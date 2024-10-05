@@ -2,8 +2,6 @@
 
 [[Rust] 引数の有無で read 対象(ファイル・標準入力)を切り替える](https://zenn.dev/shu_kitamura/articles/a2491733fb43f1)の説明で使用したプログラムです。  
 
-https://zenn.dev/shu_kitamura/articles/a2491733fb43f1
-
 ## 概要
 
 ファイル・標準入力の内容を、行数とともに表示します。  
